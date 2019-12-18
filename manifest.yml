@@ -4,5 +4,5 @@ applications:
     memory: 256M
     instances: 1
     routes:
-    - route: opsmx-demo.cfapps.io
+    - route: test-app-thankful-monkey-uv.cfapps.io
 
