@@ -4,5 +4,5 @@ applications:
     memory: 256M
     instances: 1
     routes:
-    - opsmx-demo.cfapps.io
+    - route: opsmx-demo.cfapps.io
 
